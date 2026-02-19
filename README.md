@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manvik 👋
 
-<!--
-**Manvikk00/Manvikk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 16 Year old student  
+💻 Learning Python & Web Development, specializing in AI-driven Image Recognition and Object Detection
+🚀 Interested in AI  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- HTML, CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Box Detection and Counting System for Warehouse
+- Smart Rover for Plant Health Detection
+- Fitness Tracker
+
+## 📫 Connect
+- Email : manvik.bhagat@icloud.com
